@@ -26,12 +26,12 @@ should be multi-device responsive.
 
 ### Deliverable 1
 
-See `Mission_to_Mars_Challenge.ipynb`, `scraping.py`, and `app.py`
+`Mission_to_Mars_Challenge.ipynb`, `scraping.py`, and `app.py`
 
 ### Deliverable 2
 
-See `scraping.py`, `app.py`, and `index.html`
+`scraping.py`, `app.py`, and `index.html`
 
 ### Deliverable 3
 
-See `index.html`, `scraping.py`, `app.py`, and `mainpage.css`
+`index.html`, `scraping.py`, `app.py`, and `mainpage.css`
